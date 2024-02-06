@@ -5,8 +5,62 @@
     <link rel="self" type="application/atom+xml" href="https://xinting.me/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://xinting.me"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2021-05-01T19:30:00+00:00</updated>
+    <updated>2024-02-06T18:20:00+00:00</updated>
     <id>https://xinting.me/atom.xml</id>
+    <entry xml:lang="en">
+        <title>前言</title>
+        <published>2024-02-06T18:20:00+00:00</published>
+        <updated>2024-02-06T18:20:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              iFlat
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://xinting.me/docs/assembly/preface/"/>
+        <id>https://xinting.me/docs/assembly/preface/</id>
+        
+        <content type="html" xml:base="https://xinting.me/docs/assembly/preface/">&lt;p&gt;汇编语言是一种古老的、低级别的、不具有移植性的编程语言。它能够直接访问计算机硬件，所以执行效率极高，占用资源极少，一般用于嵌入式设备、驱动程序、实时应用、核心算法等开发工作。&lt;&#x2F;p&gt;
+&lt;p&gt;使用汇编语言的缺点是开发周期特别长，实现一个简单的功能都需要许多复杂的步骤。因为非常麻烦，已经很少有人用它来编写应用程序了。现在学习汇编语言的主要目的是从更低级别深入理解计算机的系统结构，以及工作在其上的操作系统。&lt;&#x2F;p&gt;
+&lt;p&gt;这套汇编语言入门教程基于 Windows 32&#x2F;64 位系统，讲解与 Intel 和 AMD 处理器相兼容的汇编语言程序设计，让大家学会用机器级的思维方式来处理编程问题。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;bei-jing-xu-qiu&quot;&gt;背景需求&lt;&#x2F;h3&gt;
+&lt;p&gt;学习汇编语言之前，你至少要学习过一门以上高级程序设计语言。例如：Python、 Java、 C 或 C++ 等。&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;zhang-jie-jie-shao&quot;&gt;章节介绍&lt;&#x2F;h3&gt;
+&lt;p&gt;第1章. 基本概念&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;汇编语言的应用，基本概念，机器语言，数据的表示等。&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;第2章. x86 处理器架构&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;微型计算机的设计，指令执行周期，x86处理器的结构，内存管理，计算机的组成，输入输出系统等。&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;第3章. 汇编语言基础&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;介绍汇编语言，链接和调试，常量和变量的定义等。&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;第4章. 数据传送、寻址和算术运算&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;附录A&lt;&#x2F;strong&gt;: Demonstrating a pattern of violation of community
+standards, including sustained inappropriate behavior,  harassment of an
+individual, or aggression toward or disparagement of classes of individuals.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;附录B&lt;&#x2F;strong&gt;: A permanent ban from any sort of public interaction within
+the community.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;xiang-guan-zi-yuan&quot;&gt;相关资源&lt;&#x2F;h3&gt;
+&lt;p&gt;This Code of Conduct is adapted from the &lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&quot;&gt;Contributor Covenant&lt;&#x2F;a&gt;,
+version 2.0, available at
+&lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;version&#x2F;2&#x2F;0&#x2F;code_of_conduct.html&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;version&#x2F;2&#x2F;0&#x2F;code_of_conduct.html&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Community Impact Guidelines were inspired by 
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mozilla&#x2F;diversity&quot;&gt;Mozilla&#x27;s code of conduct enforcement ladder&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;For answers to common questions about this code of conduct, see the FAQ at
+&lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;faq&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;faq&lt;&#x2F;a&gt;. Translations are available 
+at &lt;a href=&quot;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;translations&quot;&gt;https:&#x2F;&#x2F;www.contributor-covenant.org&#x2F;translations&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>FAQ</title>
         <published>2021-05-01T19:30:00+00:00</published>
